@@ -11,7 +11,7 @@ Stack: Python, YOLOv8 (Ultralytics), Picamera2, Flask, Arduino, 3S LiPo with BLH
 1. Flash the Arduino sketch in `/arduino` to the Uno and connect it to the Pi via USB (defaults to `/dev/ttyACM0`).
 2. On the Pi, install dependencies:
 ```bash
-   pip install -r requirements.txt
+   pip install -r requirementsWC.txt
 ```
 3. Start the server:
 ```bash
