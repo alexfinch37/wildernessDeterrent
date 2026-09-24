@@ -19,4 +19,4 @@ Stack: Python, YOLOv8 (Ultralytics), Picamera2, Flask, Arduino, 3S LiPo with BLH
 ```
 4. Open `http://<pi-ip>:5000` to view the live feed and manual fire control.
 
-The trained model weights (`jun16model.pt`) are included in `/models`.
+The trained model weights (`peopleYolov8.pt`) are included with three classes trained.
